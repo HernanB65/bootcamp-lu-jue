@@ -37,4 +37,11 @@ git status
 git add <nombre-archivo>
 git add index.html
 git add README.md css/estilos.css
-git add . <!-- agrego todos los archivos que están (UNTRACKED -->
+git add . <!-- agrego todos los archivos que están (UNTRACKED, MODIFIED) -->
+
+## Para ver la historia de commits (La caja de fotos)
+
+git log (La historia de commit detallada)
+git log --oneline (La historia resumida)
+
+Nota: si la consola queda bloqueada y no puedo salir del listado tengo que apretar la tecla q (quit)
