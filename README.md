@@ -45,3 +45,8 @@ git log (La historia de commit detallada)
 git log --oneline (La historia resumida)
 
 Nota: si la consola queda bloqueada y no puedo salir del listado tengo que apretar la tecla q (quit)
+
+## Si quiero ver los cambios que tengo entre el WD y LR
+
+git diff
+
