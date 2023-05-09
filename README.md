@@ -79,3 +79,10 @@ git remote add origin https://github.com/HernanB65/bootcamp-lu-jue.git
 git remote -v
 """
 
+### Crear una rama
+
+"""sh
+git branch <nombre-rama>
+git branch ramas
+"""
+
